@@ -23,8 +23,15 @@ require_once 'navbar.php';
             <div class="card-text">
             <form method="post" class="">
             <input type="email" placeholder="Email" name="email" class="form-control btn-outline-danger" style="background-color:white"><br>
-            <input type="password" placeholder="Password" name="pass" class="form-control btn-outline-danger" style="background-color:white"><br>
-            <input type="submit" class="btn btn-outline-danger my-2 my-sm-0"><br> 
+            <input type="password" placeholder="Password" ID="pass" name="pass" class="form-control btn-outline-danger" style="background-color:white"><br>
+            <input type="submit" class="btn btn-outline-danger my-2 my-sm-0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <u class="custom-switch btn" >
+                <input type="checkbox" class="custom-control-input" onclick="showPass()" id="customSwitches" >
+                <label class="custom-control-label" style="color:white;" for="customSwitches">Show Password</label>
+            </u><br><br>
+            <a href="#" style="color:white">Forgot Password?</a><br>
+            <a href="#" style="color:white">Don't have an account??</a>
+        </div>
         </form>
         </div>
         </div>
@@ -35,3 +42,15 @@ require_once 'navbar.php';
 
 </body>
 </html>
+
+<Script language="JavaScript">
+function showPass() {
+  var x = document.getElementById("pass");
+  if (x.type === "password") {
+    x.type = "text";
+  } else {
+    x.type = "password";
+  }
+}
+
+</script>
