@@ -1,0 +1,10 @@
+li:hover {
+  background-color: whitesmoke;
+  color: black;
+}
+
+.nav-link:hover{
+    background-color: whitesmoke;
+    color:black;
+}
+
