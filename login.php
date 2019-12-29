@@ -4,7 +4,7 @@
         <div style="background-color:black;">
         <div style="width:100%; text-align:center;">
             <img src="public/images/avtar2.jpg" style="width:170px;height:170px;border-radius:100%;"></img>
-            <h3 class="card-title " style="color:white">Sign in</h3>
+            <h3 class="card-title " style="color:white">Sign in</h3><br><Br>
         </div>
         <div >
 

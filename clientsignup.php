@@ -4,7 +4,7 @@ include_once 'includes/header.php';
 
 <div class="container" style="margin-top:100px">
     <div class="card" style="background-color:black;opacity:0.9;padding:50px 50px;border-radius:50px">
-    <div style="text-align:center;color:white">
+    <div style="text-align:center;color:red">
         <h1><b>Sign Up</b></h1>
     </div>
         <form><br><br>
@@ -41,7 +41,8 @@ include_once 'includes/header.php';
                 <input type="password" placeholder="Answer" class="form-control">
                 </div>
                 </div><br>
-                <input type="Submit" class="btn btn-outline-danger">
+                <input type="Submit" class="btn btn-outline-danger">&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="reset" class="btn btn-outline-danger">
         </form>
 
     </div>

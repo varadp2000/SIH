@@ -22,7 +22,7 @@
         <!-- Navbar -->
         <nav class="navbar navbar-expand-sm navbar-dark nav-upper" role="navigation">
 
-            <img class="navbar-brand" width="60px" height="60px" src="public/images/title_icon.jpg">
+            <img class="navbar-brand" width="70px" height="70px" src="public/images/title_icon.jpg" style="border-radius:50%">
             <div class="court-case-title">
                 Court Case
                 <span>
