@@ -38,12 +38,12 @@
             <div class="collapse navbar-collapse  justify-content-end" id="navbarNav">
                 <ul class="nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="index.php">
                             Home
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="lawyersignup.php">
                             Lawyers
                         </a>
                     </li>
