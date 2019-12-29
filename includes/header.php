@@ -64,7 +64,8 @@
                         onclick="window.location.href='login.php';">
                         Login
                     </button>
-                    <button class="btn my-sm-0 navbtn">
+                    <button class="btn my-sm-0 navbtn"
+                    onclick="window.location.href='clientsignup.php';">
                         Sign up
                     </button>
                 </div>

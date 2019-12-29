@@ -1,6 +1,6 @@
 <?php require_once('includes/header.php'); ?>
     <div class="container" >
-        <div class="card" style="margin-top:100px;padding:10% 10%;opacity:0.9;height:70rem 100px;border-radius:2rem;background-color:black;">
+        <div class="card" style="margin-top:100px;padding:10% 10%;opacity:0.9;border-radius:2rem;background-color:black;">
         <div style="background-color:black;">
         <div style="width:100%; text-align:center;">
             <img src="public/images/avtar2.jpg" style="width:170px;height:170px;border-radius:100%;"></img>
