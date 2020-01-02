@@ -17,7 +17,7 @@
         href = "public/images/title_icon.jpg" type = "image/x-icon">
     </head>
 
-    <body style="background-image:url('public/images/loginbg.jpg');background-repeat:no-repeat;background-attachment: fixed;background-size: cover;">
+    <body style="background-image:url('public/images/bg.jpg');background-repeat:no-repeat;background-attachment: fixed;background-size: cover;">
 
         <!-- Navbar -->
         <nav class="navbar navbar-expand-sm navbar-dark nav-upper" role="navigation">
