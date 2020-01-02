@@ -32,9 +32,9 @@ include_once 'includes/header.php';
                 <div class="col">
                 <select class="custom-select" id="inlineFormCustomSelectPref">
                     <option selected>Security Question</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
+                    <option value="1">What is my best friend's first name?</option>
+                    <option value="2">What is my favourite movie?</option>
+                    <option value="3">What is my favourite cartoon character?</option>
                 </select>
                 </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <div class="col">
